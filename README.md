@@ -5,8 +5,12 @@
 ## 开发
 
 ```bash
-$ tnpm i
-$ npm run start
+$ yarn
+$ yarn start
 ```
 
 打开 <http://localhost:8080/>
+
+## 学员笔记
+
+<https://fe-note.mle.moe/travel/todo-react.html>
